@@ -35,6 +35,7 @@ function App() {
     <h2>Button</h2>
         <ButtonF />
         <h2>Image</h2>
+        <h2>ImageSlider is added to this page</h2>
         <ImageF/>
         <h2>Form</h2>
         <FormF/>
