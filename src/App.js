@@ -37,6 +37,7 @@ function App() {
         <h2>Image</h2>
         <ImageF/>
         <h2>Form</h2>
+        <h2>Login page</h2>
         <FormF/>
         <h2>Lists</h2>
         <ListF/>
